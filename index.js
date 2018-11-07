@@ -29,7 +29,14 @@ function sayHiToGrandma(string){
   if (string === string.toUpperCase()) {
     return "YES INDEED!"
   }
+<<<<<<< HEAD
   if (string === "I love you, Grandma.") {
     return "I love you, too."
   }
 }
+=======
+  if (string === "")
+  }
+  }
+  }
+>>>>>>> bcbe59abcef8311cb8771b2a56d8ce3878d077c0
